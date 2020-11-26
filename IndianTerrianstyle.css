@@ -1,0 +1,320 @@
+
+.Container{
+    height: 3363px;
+    width: 100%;
+    background-color: #FBF6F0;
+}
+.header{
+  height: 80px;
+  width: 100%;
+  background-color: #FFFFFF;
+}
+.logo{
+
+}
+.menu{
+
+}
+.form{
+    position: relative;
+    margin: -80px 104px;
+    border-radius: 20px 20px;
+}
+.header ul{
+  text-decoration: none;
+  display: inline-block;
+  margin:-28px 114px;
+  position: absolute;
+}
+
+.header li {
+  text-decoration: none;
+  float: left;
+  list-style: none;
+  margin :-5px 16px;
+ 
+}
+ul li a{
+  text-decoration: none;
+}
+li a:hover{
+
+}
+form.example input[type=text] {
+    padding: 4px;
+    font-size: 16px;
+    width: 54%;
+    color: #091E42 ;
+  }
+  .search icon{
+
+  }
+  .user{
+
+  }
+.banner{
+  height: 450px;
+    width: 100%
+}
+.subimages{
+  height: 545px;
+  width: 100%;
+}
+.image1{
+  margin: 54px 23px;
+    height: 453px;
+    width: 371px;
+    float: left;
+}
+.image2{
+  margin:54px 18px;
+    height: 453px;
+    width: 371px;
+    float: left;
+}
+.image3{
+  margin: 54px 23px;
+    height: 453px;
+    width: 371px;
+    float: left;
+}
+.title{
+  position: absolute;
+  margin: -44px -1px;
+  width: 371px;
+  background-color: #2A1812;
+}
+.title2{
+  position: absolute;
+  margin: -44px -1px;
+  width: 371px;
+  background-color: #2A1812;
+}
+.title3{
+  position: absolute;
+  margin: -44px -1px;
+  width: 371px;
+  background-color: #2A1812;
+}
+.subimages-1{
+  height: 500px;
+  width: 100%;
+
+}
+.image4{
+  float: left;
+  margin: 5px 22px;
+  height: 428px;
+  width: 280px;
+}
+.image5{
+  float: left;
+  margin:5px 3px;
+  height: 428px;
+  width: 280px;
+}
+.image6{
+  float: left;
+  margin: 5px 22px;
+  height: 428px;
+  width: 280px;
+}
+  
+.image7{
+  float: left;
+  margin: 5px 3px;
+  height: 428px;
+  width: 280px;
+}
+.title4{
+  background-color: white;
+    height: 76px;
+    width: 280px;
+    margin: -4px -2px;
+}
+.title5{
+  background-color: white;
+    height: 76px;
+    width: 280px;
+    margin: -4px -2px;
+}
+.title6{
+  background-color: white;
+    height: 76px;
+    width: 280px;
+    margin: -4px -2px;
+}
+.title7{
+  background-color: white;
+    height: 76px;
+    width: 280px;
+    margin: -4px -2px;
+}
+.subimages-2{
+  height: 570px;
+  width: 100%
+}
+.image8{
+  float: left;
+  margin: 5px 22px;
+  height: 428px;
+  width: 280px;
+}
+.image9{
+  float: left;
+  margin: 5px 1px;
+  height: 428px;
+  width: 280px;
+}
+.image10{
+  float: left;
+  margin: 5px 22px;
+  height: 428px;
+  width: 280px;
+}
+.image11{
+  float: left;
+  margin: 5px 2px;
+  height: 428px;
+  width: 280px;
+}
+.title8{
+  background-color:#5C4635;
+    height: 50px;
+    width: 280px;
+    margin: -4px -2px;
+}
+.title9{
+  background-color:#5C4635;
+  height: 50px;
+  width: 280px;
+  margin: -4px -2px;
+}
+.title10{
+  background-color:#5C4635;
+    height: 50px;
+    width: 280px;
+    margin: -4px -2px;
+}
+.title11{
+  background-color:#5C4635;
+  height: 50px;
+  width: 280px;
+  margin: -4px -2px;
+}
+.subimages-3{
+  height: 500px;
+  width: 100%
+}
+.contentleft{
+  height: 500px;
+  float: left;
+  width: 50%;
+}
+.subcontent{
+  background-color:#A47D56;
+   color: white; 
+   border-radius:10px;
+    height: 50px;
+    width: 250px;
+    margin: -52px 47px;
+}
+.contentright{
+  height: 453px;
+    float: left;
+    width: 38%;
+    float: left;
+    margin: 46px 59px;
+}
+.mainfooter{
+  height: 706px;
+  width: 100%;
+  background-color: white;
+
+}
+.footer-1{
+  border: 1px solid #afafaf;
+  height: 200px;
+  width: 100%;
+
+}
+.footer-2{
+  border: 1px solid #afafaf;  
+  height: 410px;
+  width: 100%;
+}
+.left{
+  float: left;
+  margin: 10px 10px;
+  height: 400px;
+  width: 149px;
+}
+.left ul{
+  margin: 0px -29px;
+  color: #374865;
+  list-style: none;
+}
+.left ul li{
+  color:#374865;
+}
+li a{
+  color:#374865;
+}
+.left1{
+  float: left;
+  margin: 10px 10px;
+  text-decoration: none;
+  height: 400px;
+  list-style: none;
+  width: 91px;
+}
+
+.left1 ul{
+
+  margin:-11px -32px;
+  color: #374865;
+  list-style: none;
+}
+.left1 li{
+  color:#374865;
+}
+li a{
+  color:#374865;
+}
+.middle{
+  margin: 1px 35px;
+  width: 190px;
+  float: left;
+}
+.middle ul{
+  text-decoration: none;
+  list-style: none;
+  margin:10px -8px;
+}
+.middle ul li{
+
+}
+li a{
+
+}
+.right{
+  float: left;
+    width: 300px;
+}
+.right1{
+
+}
+.footer-3{
+  border: 1px solid #afafaf;
+  height: 90px;
+    width: 100%;
+
+}
+.footer{
+  float: left;
+  margin: -83px 724px;
+}
+
+
+  
+  
